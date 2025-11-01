@@ -1,0 +1,10 @@
+{
+  "timezoneOffset": -8,
+  "timezoneString": "-0800",
+  "timezoneName": "PST (Pacific Standard Time)",
+  "filePattern": "*.md",
+  "convertUTC": true,
+  "addTimezoneToPlainDates": true,
+  "skipAlreadyConverted": true,
+  "comment": "미국 태평양 표준시 (PST) 설정"
+}

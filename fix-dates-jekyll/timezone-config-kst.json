@@ -1,0 +1,10 @@
+{
+  "timezoneOffset": 9,
+  "timezoneString": "+0900",
+  "timezoneName": "KST (Korea Standard Time)",
+  "filePattern": "*.md",
+  "convertUTC": true,
+  "addTimezoneToPlainDates": true,
+  "skipAlreadyConverted": true,
+  "comment": "한국 표준시 (KST) 설정"
+}

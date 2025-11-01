@@ -1,0 +1,10 @@
+{
+  "timezoneOffset": 0,
+  "timezoneString": "+0000",
+  "timezoneName": "GMT (Greenwich Mean Time)",
+  "filePattern": "*.md",
+  "convertUTC": true,
+  "addTimezoneToPlainDates": true,
+  "skipAlreadyConverted": true,
+  "comment": "영국 표준시 (GMT/UTC) 설정"
+}

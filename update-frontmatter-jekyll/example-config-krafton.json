@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "key": "layout",
+      "value": "post",
+      "type": "static",
+      "comment": "항상 'post' 레이아웃 사용"
+    },
+    {
+      "key": "title",
+      "value": "",
+      "type": "preserve",
+      "quote": true,
+      "comment": "기존 title 값을 따옴표로 감싸서 유지"
+    },
+    {
+      "key": "date",
+      "value": "",
+      "type": "preserve",
+      "quote": false,
+      "comment": "기존 date 값을 그대로 유지"
+    },
+    {
+      "key": "categories",
+      "value": [
+        "KRAFTON JUNGLE"
+      ],
+      "type": "static",
+      "format": "array",
+      "comment": "모든 포스트에 이 카테고리 적용"
+    },
+    {
+      "key": "tags",
+      "value": [
+        "Programming"
+      ],
+      "type": "static",
+      "format": "array",
+      "comment": "모든 포스트에 이 태그 적용"
+    }
+  ],
+  "preserveOtherFields": false,
+  "filePattern": "*.md",
+  "comment": "기본 설정 - KRAFTON JUNGLE 블로그용"
+}

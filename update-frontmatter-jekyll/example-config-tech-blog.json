@@ -1,0 +1,45 @@
+{
+  "fields": [
+    {
+      "key": "layout",
+      "value": "post",
+      "type": "static"
+    },
+    {
+      "key": "title",
+      "type": "preserve",
+      "quote": true
+    },
+    {
+      "key": "author",
+      "value": "Your Name",
+      "type": "default",
+      "quote": true
+    },
+    {
+      "key": "date",
+      "type": "preserve"
+    },
+    {
+      "key": "categories",
+      "value": [
+        "Tech"
+      ],
+      "type": "default",
+      "format": "array"
+    },
+    {
+      "key": "tags",
+      "value": [],
+      "type": "preserve",
+      "format": "array"
+    },
+    {
+      "key": "image",
+      "value": "/assets/images/default.jpg",
+      "type": "default"
+    }
+  ],
+  "preserveOtherFields": true,
+  "filePattern": "*.md"
+}
